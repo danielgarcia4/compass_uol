@@ -63,3 +63,7 @@ Para **ignorar arquivos**, basta criar um arquivo na raiz chamado ***.gitignore*
 Para **resetar mudanças feitas**, sejam alterações commitadas ou pendentes: ```git reset```\
 Geralmente é usado com a flag ```–hard```
 
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)
+

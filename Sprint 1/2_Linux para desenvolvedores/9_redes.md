@@ -66,3 +66,7 @@ Para utilizar esse comando, é necessário instalar o pacote (```sudo apt-get in
 * ```tcpdum``` - consegue ver todas os pacotes tcp que vem para nossa máquina.
 
 **Dica:** ```hostname -I``` (para ver o ip da própria máquina)
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

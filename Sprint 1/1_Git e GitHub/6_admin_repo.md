@@ -27,3 +27,7 @@ Alguns comandos auxiliam na administração do repositório, aumentando assim se
 * **Transformando o repo para arquivo**
 
 ```git archive --format zip --output main_files.zip main``` | transforma o repo em um arquivo compacto (main vai estar zipada no arquivo **main_files.zip**)
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

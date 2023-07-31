@@ -22,3 +22,7 @@ Criada função de adição do produto
    
 a função foi criada para os novos clientes, não cadastrados, conseguirem adicionar produtos ao carrinho antes do login.
 ```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

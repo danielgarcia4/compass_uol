@@ -103,3 +103,7 @@ Alterando data ou criando arquivo com touch: ```touch file```
 Criando vários arquivos com touch: ```touch a.txt b.txt c.txt```
 
 O manual do sistema operacionaml para entender os comandos: ```man``` (ex: man ls)
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

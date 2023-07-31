@@ -24,5 +24,6 @@ Definir a melhor distribuição não é uma tarefa fácil, já que cada distribu
 6. Os servidores mais seguros são Linux;
 7. Suporte nativo para muitas linguagens;
 
-
-
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

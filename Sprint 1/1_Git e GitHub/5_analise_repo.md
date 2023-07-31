@@ -24,3 +24,6 @@ Muitas vezes em um projeto são necessários alguns recursos para inspeção e a
 
 ```git shortlog``` | Dá um log resumido do projeto (podemos saber quais commits foram enviados ao projeto e por quem)
 
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

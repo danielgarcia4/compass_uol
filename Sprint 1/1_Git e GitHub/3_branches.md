@@ -40,3 +40,7 @@ Para **trocar de tag**: ```git checkout <nome>```
 Para **enviar uma tag específica** ao repositório remoto: ```git push origin <nome>```
 
 Para **enviar todas as tags** ao repositório remoto: ```git push origin --tags```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

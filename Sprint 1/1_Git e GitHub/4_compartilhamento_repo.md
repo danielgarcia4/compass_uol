@@ -42,3 +42,7 @@ Utilizando o git e os conceitos de branch, torna-se extremamente importante o co
 (Para atualizar um submódulo primeiro devemos commitar as mudanças)
 
 ```git push --recurse-submodules=on-demand``` | Enviar para o repo do submódulo
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

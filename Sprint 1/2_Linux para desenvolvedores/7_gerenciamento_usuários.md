@@ -25,3 +25,7 @@ Um **grupo no Linux** contém vários usuários, auxiliando no gerenciamento de 
 
 **Dica:** para se tornar superusuário basta inserir o comando ```sudo su```\
 **Dica:** para mudar a senha, o comando é ```passwd```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

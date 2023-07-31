@@ -58,3 +58,7 @@ a : Todos (all)
 Comando para **alterar propriedade:** ```chown user file```\
 **Alterando usuário e grupo do arquivo/dir:** ```chown user:group file```\
 Comando para **alterar grupo:** ```chgrp group file```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

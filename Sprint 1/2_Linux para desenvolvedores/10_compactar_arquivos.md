@@ -45,3 +45,7 @@ zip -r nome_do_arquivo.zip diretório_ou_arquivo
 ``` shell
 unzip nome_do_arquivo.zip -d destino
 ```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

@@ -22,3 +22,7 @@ Removendo pacotes não utilizados no sistema: ```sudo apt-get autoremove```
 Buscando por pacotes: ```apt-cache search <package>```
 
 ***Dica:*** nas versões mais recentes do linux, é possível usar apenas apt no lugar de apt-get
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

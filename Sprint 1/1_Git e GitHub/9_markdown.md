@@ -24,4 +24,8 @@
 \- [ x ] CSS do rodapé\
 \- [ ] CSS da página de contatos
 
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)
+
 

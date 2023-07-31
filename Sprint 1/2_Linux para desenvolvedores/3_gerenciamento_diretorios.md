@@ -56,3 +56,7 @@ Movendo um arquivo para um diretório: ```mv teste.txt dir/teste.txt```
 Movendo vários arquivos para um diretório: ```mv * dir/```
 
 Para saber exatamente onde está (a estrutura de diretórios): ```pwd```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

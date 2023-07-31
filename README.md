@@ -96,3 +96,7 @@ Redes são os conjuntos de dispositivos de computação interligados por um sist
 10. [**Compactação e descompactação de arquivos e diretórios**](/Sprint%201/2_Linux%20para%20desenvolvedores/10_compactar_arquivos.md)
 
 É possível fazer a compactação e descompactação de arquivos por linha de comando, utilizando o ***tar*** e o ***zip***.
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

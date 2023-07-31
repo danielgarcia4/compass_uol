@@ -21,3 +21,7 @@ No GitHub inicializamos os repositórios, e temos algumas informações importan
 * **Aba SETTINGS:** Configurações do projeto. Podemos alterar o nome do repo, adicionar/remover features, adicionar colaboradores, mudar a visibilidade, deletar o repo, etc.
 
 * **GIST:** são pequenos blocos de código que podem ser hospedados no GitHub, e o link pode ser compartilhado. Nele você pode armazenar soluções interessantes sem perder tempo. ([gist.github.com](gist.github.com)).
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)

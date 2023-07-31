@@ -43,3 +43,7 @@ Ver os status do banco de dados: ```locate -S```
 
 *Dica:* ```!!``` executa o último comando novamente\
 Dica: ```which comand``` - serve para ver onde os comandos são executados
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)
