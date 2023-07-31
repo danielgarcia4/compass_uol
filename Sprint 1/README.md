@@ -19,18 +19,28 @@ Para acessar os resumos e códigos relacionados, basta clicar nos links da lista
 
 ## Linux para desenvolvedores
 
-Aprendemos sobre os sistemas operacionais baseados em Linux, com os princípios básicos de operação e comandos de terminal. A distribuição Linux que utilizamos é o **Ubuntu**.\
+No curso **Linux para desenvolvedores** aprendemos sobre os sistemas operacionais baseados em Linux, com os princípios básicos de operação e comandos de terminal. A distribuição Linux que utilizamos é o **Ubuntu**.\
 Os tópicos abordados foram:
 
-1. Teoria sobre Linux (distribuição, kernel)
-2. Linux Fundamental
-3. Gerenciamento de diretórios e arquivos
-4. Gerenciamento de pacotes/aplicativos
-5. Filtro e buscas em arquivos e diretórios
-6. Editores de texto mais utilizados
-7. Gerenciamento de usuários e grupos
-8. Gerenciamento de permissões
-9. Gerenciamento básico de redes
-10. Compactação e descompactação de arquivos e diretórios
+1. **Teoria sobre Linux (distribuição, kernel)**
+2. **Linux Fundamental**
+3. **Gerenciamento de diretórios e arquivos**
+4. **Gerenciamento de pacotes/aplicativos**
+5. **Filtro e buscas em arquivos e diretórios**
+6. **Editores de texto mais utilizados**
+7. **Gerenciamento de usuários e grupos**
+8. **Gerenciamento de permissões**
+9. **Gerenciamento básico de redes**
+10. **Compactação e descompactação de arquivos e diretórios**
 
 Para acessar os resumos e códigos relacionados, basta clicar nos links da lista acima.
+
+## Certificados
+
+* **Certificado de conclusão do curso de *Git e GitHub do básico ao avançado*** 
+
+![Certificado de Git e GitHub](certificados/certificado_git.jpg)
+
+* **Certificado e conclusão do curso de *Linux para desenvolvedores***
+
+![Certificado de Git e GitHub](certificados/certificado_linux.jpg)
