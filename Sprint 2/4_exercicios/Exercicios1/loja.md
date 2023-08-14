@@ -151,3 +151,5 @@ WHERE status = 'Concluído'
 GROUP BY estado, nmpro
 ORDER BY estado, nmpro
 ```
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)

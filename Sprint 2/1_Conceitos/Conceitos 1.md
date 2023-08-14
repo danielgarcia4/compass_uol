@@ -37,7 +37,7 @@ contextualizada, chega-se ao **conhecimento**. O conhecimento é transformado em
 
 ## Dados Estruturados e Não Estruturados
 
-# IMAGEM 1 ###############################
+![Dados estruturados e não estruturados](./img/image4.png)
 
 **Dados Estruturados:** são aqueles organizados e representados com uma estrutura rígida, a qual foi previamente planejada para armazená-los. Os dados estruturados de um mesmo bloco possuem uma **relação**, e mesmo que possuam diferentes valores, possuem os mesmos **atributos** e **formatos**. Então podemos dizer que banco de dados é um exemplo de dados estruturados.
 
@@ -93,19 +93,19 @@ Os formatos mais utilizados para armazenar dados são TXT, CSV, XML, JSON, ORC, 
 
 **TXT:** Arquivos com a extensão .txt  podem ser facilmente lidos ou abertos por qualquer programa que lê texto e, por essa razão, são considerados universais (ou plataforma independente). Estes arquivos são facilmente editáveis, bastando alterar o que está escrito, com um simples delete seguido de nova escrita.
 
-# IMAGEM 2 ###############################
+![Exemplo TXT](./img/image1.png)
 
 **CVS:** O Comma-Separated Values é um arquivo de texto delimitado que usa uma vírgula ou outro tipo de delimitador (como ponto e vírgula) para separar valores.
 
-# IMAGEM 3 ###############################
+![Exemplo CVS](./img/image7.png)
 
 **XML:** Extensible Markup Language é um formato para a criação de documentos com dados organizados de forma hierárquica, frequentemente, em documentos de texto formatados, imagens vetoriais ou bancos de dados.
 
-# IMAGEM 4 ###############################
+![Exemplo XML](./img/image3.png)
 
 **JSON:** O JavaScript Object Notation é um formato compacto, de padrão aberto independente, de troca de dados simples e rápida (parsing) entre sistemas, que utiliza texto legível a humanos, no formato atributo-valor (natureza auto-descritiva). Isto é, um modelo de transmissão de informações no formato texto, muito usado em web services que usa transferência de estado representacional (REST) e aplicações AJAX, substituindo o uso do XML.
 
-# IMAGEM 5 ###############################
+![Exemplo JSON](./img/image6.png)
 
 
 **AVRO:** O Apache Avro é um formato baseado em linha que é altamente divisível. O recurso inovador e essencial do Avro é que o esquema viaja junto com os dados. A definição de dados (metadados) é armazenada no formato JSON enquanto os dados são
@@ -115,7 +115,7 @@ armazenados no formato binário, minimizando o tamanho do arquivo e maximizando 
 
 **ORC:** O Optimized Row Columnar foi desenvolvido pela primeira vez na Hortonworks para otimizar o armazenamento e o desempenho no Apache Hive, resumidamente um data warehouse para consultas e análises no Hadoop. O Hive foi projetado para consultas e análises e usa a linguagem de consulta HiveQL (semelhante ao SQL). Os arquivos ORC são projetados para alto desempenho quando o Hive está lendo, gravando e processando dados. O ORC armazena dados em linha no formato colunar. Esse formato de coluna de linha é altamente eficiente para compactação e armazenamento. Ele permite o processamento paralelo num cluster, e o formato colunar permite pular colunas desnecessárias para um processamento e descompressão mais rápidos. A seguir está representado estrutura ORC.
 
-# IMAGEM 6 ###############################
+![Estrutura ORC](./img/image2.png)
 
 ## Data Lake
 
@@ -126,7 +126,7 @@ Um **Data Lake** é um local central para armazenar todos os seus dados, indepen
 Este modelo independe de soluções tecnológicas específicas para a ingestão, armazenamento e processamento dos dados, ou seja, é um modelo teórico.\ 
 Para que os dados sejam processados e entregues atingindo uma expectativa de tempo dos stakeholders, a arquitetura Lambda é dividida em três camadas: ***batch layer***, ***speed layer*** e ***serving layer*** de acordo com a figura abaixo:
 
-# IMAGEM 7 ###############################
+![Camadas Lambda](./img/image5.png)
 
 Dentro da ***batch layer*** esse dado é armazenado de maneira atômica, ou seja, nada é atualizado ou sobrescrito.
 
@@ -135,3 +135,6 @@ Como a quantidade de dados armazenados a cada dia só cresce, e os dados da ***s
 Visando compensar esse intervalo a ***speed layer*** foi criada, essa camada, que recebe a mesma estrutura atômica de dados, irá processá-los em tempo real e disponibilizá-los para que os sistemas finais disponham dessas informações enquanto esperam pela ***batch layer***.
 
 Utilizando as três camadas dessa arquitetura é possível processar uma quantidade imensa de dados e mantê-los em sua estrutura original na ***batch layer***, disponibilizar esses dados em visualizações pré-computadas (***serving layer***), compensar os intervalos da camada batch e continuar entregando as informações em tempo real (***speed layer***).
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)

@@ -44,6 +44,3 @@ Para acessar os resumos e códigos relacionados, basta clicar nos links da lista
 * **Certificado e conclusão do curso de *Linux para desenvolvedores***
 
 ![Certificado de Git e GitHub](certificados/certificado_linux.jpg)
-
-## Atalhos
-[Voltar para o README.md da raiz](/README.md)

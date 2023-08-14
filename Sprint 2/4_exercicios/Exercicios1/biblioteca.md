@@ -107,3 +107,6 @@ LEFT JOIN livro as liv
 WHERE liv.cod IS NULL
 ORDER BY aut.nome
 ```
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)

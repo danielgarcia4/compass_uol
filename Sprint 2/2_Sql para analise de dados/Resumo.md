@@ -649,3 +649,5 @@ Para **deletar** uma coluna utilizamos o comando ```DROP COLUMN```.
 alter table sales.customers
 drop column age
 ```
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)

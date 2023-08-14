@@ -60,3 +60,6 @@ Serve para armazenamento de dados históricos. Um SCD é uma dimensão que armaz
 ## API
 
 Uma API, do inglês ***Application Program Interface***, é um conjunto de rotinas, protocolos e ferramentas para criar aplicativos de software. Basicamente, uma API especifica como os componentes de software devem interagir.
+
+## Atalhos
+[Voltar para o README.md da raiz](/README.md)
