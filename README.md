@@ -101,29 +101,37 @@ Redes são os conjuntos de dispositivos de computação interligados por um sist
 
 Nessa sprint aprendemos conceitos e prática de SQL, além de conceitos de Big Data.
 
-### Resumos Conceitos
+### Resumos dos Conceitos
 
 Para ter acesso aos resumos clique nos links abaixo.
 
-1. [**Conceitos de Data & Analytics I**](/Sprint%202/1_Conceitos/Conceitos%201.md)
+* 1. [**Conceitos de Data & Analytics I**](/Sprint%202/1_Conceitos/Conceitos%201.md)
 
-2. [**Conceitos de Data & Analytics II**](/Sprint%202/1_Conceitos/Conceitos%202.md)
+Na primeira parte foram apresentados conceitos de BigData, Ciência de Dados, Tipos de Dados, BD Relacionais, BD NoSQL, Tipos de Armazenamento de dados e outros.
+
+* 2. [**Conceitos de Data & Analytics II**](/Sprint%202/1_Conceitos/Conceitos%202.md)
+
+Nessa segunda parte foram apresentadas Técnicas de Processamento de Dados, conceitos de Business Inteligence (BI), Data Warehouse (DW), Slowly Changing Dimension (SCD), Mineração de Dados, Machine Learning, Deep Learning, Relatórios, Dashboards, Internet das Coisas (IoT), API e outros.
 
 ### SQL para análise de dados
 
+Aprendemos comandos básicos de SQL como SELECT, DISTINCT, WHERE, ORDER BY, LIMIT. Também operadores, joins, unions, subqueries, tratamento de dados e textos, manipulação de tabelas e muito mais.
+
 Para ter acesso ao resumo do curso, clique no link abaixo.
 
-1. [**SQL para análise de dados**](/Sprint%202/2_Sql%20para%20analise%20de%20dados/Resumo.md)
+* 1. [**SQL para análise de dados**](/Sprint%202/2_Sql%20para%20analise%20de%20dados/Resumo.md)
 
 ### Big Data Fundamentos
 
+Foram apresentados conceitos e ferramentas relacionadas a Banco de Dados, Ciência de Dados, etc
+
 Acesse o Ebook com o conteúdo do curso no link abaixo
 
-[Ebook - BDF](./Sprint%202/3_bigdatafundamentos/Ebook-BDFV3.pdf)
+* [Ebook - BDF](./Sprint%202/3_bigdatafundamentos/Ebook-BDFV3.pdf)
 
 Acesse o certificado no link abaixo.
 
-[Big Data Fundamentos 3.0](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
+* [Big Data Fundamentos 3.0](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
 
 ### Exercícios
 
