@@ -97,6 +97,51 @@ Redes são os conjuntos de dispositivos de computação interligados por um sist
 
 É possível fazer a compactação e descompactação de arquivos por linha de comando, utilizando o ***tar*** e o ***zip***.
 
-## Atalhos
-[Voltar para o README.md da raiz](/README.md)\
-[Voltar para o README.md da Sprint 1](/Sprint%201/README.md)
+## Sprint 2
+
+Nessa sprint aprendemos conceitos e prática de SQL, além de conceitos de Big Data.
+
+### Resumos Conceitos
+
+Para ter acesso aos resumos clique nos links abaixo.
+
+1. [**Conceitos de Data & Analytics I**](/Sprint%202/1_Conceitos/Conceitos%201.md)
+
+2. [**Conceitos de Data & Analytics II**](/Sprint%202/1_Conceitos/Conceitos%202.md)
+
+### SQL para análise de dados
+
+Para ter acesso ao resumo do curso, clique no link abaixo.
+
+1. [**SQL para análise de dados**](/Sprint%202/2_Sql%20para%20analise%20de%20dados/Resumo.md)
+
+### Big Data Fundamentos
+
+Acesse o certificado no link abaixo.
+
+[Big Data Fundamentos 3.0](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
+
+### Exercícios
+
+Para acessar os exercícios, clique nos links abaixo.
+
+1. **Exercícios I**
+
+    - [Queries da biblioteca](/Sprint%202/4_exercicios/Exercicios1/biblioteca.md)
+    - [Queries da loja](/Sprint%202/4_exercicios/Exercicios1/loja.md)
+    
+
+2. **Exercícíos II**
+
+    - [10 livros mais caros](/Sprint%202/4_exercicios/Exercicios2/arquivo1.csv)
+    - [5 editoras com maior quantidade de livros na biblioteca](/Sprint%202/4_exercicios/Exercicios2/arquivo2.csv)
+    - [Queries utilizadas nos exercícios](/Sprint%202/4_exercicios/Exercicios2/queries.txt)
+
+### Certificados
+
+1. [SQL para Análise de Dados: Do básico ao avançado](/Sprint%202/certificados/sql_para_analise_de_dados.jpg)
+2. [Big Data Fundamentos 3.0](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
+3. [Data & Analytics - PB - AWS 2/10](/Sprint%202/certificados/sprint2.jpg)
+
+
+
