@@ -1,0 +1,31 @@
+-- query dos 10 livros mais caros
+
+select 
+	liv.cod as CodLivro,
+    liv.titulo as Titulo,
+    liv.autor as CodAutor,
+    aut.nome as NomeAutor,
+    liv.valor as Valor,
+    liv.editora as CodEditora,
+    edi.nome as NomeEditora
+from livro as liv
+LEFT JOIN autor as aut
+	ON liv.autor = aut.codautor
+LEFT JOIN editora as edi
+	on liv.editora = edi.codeditora
+order by valor DESC
+limit 10
+
+
+-- query das 5 editoras com maior quantidade de livros na biblioteca
+
+select DISTINCT 
+	edi.codeditora as CodEditora,
+    edi.nome as NomeEditora,
+    count(liv.editora) as QuantidadeLivros
+from livro as liv
+left join editora as edi
+	on liv.editora = edi.codeditora
+GROUP BY liv.editora
+order by count(liv.editora) desc
+limit 5
