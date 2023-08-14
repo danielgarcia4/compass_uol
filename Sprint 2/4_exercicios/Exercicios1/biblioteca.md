@@ -1,3 +1,7 @@
+# Sprint 2
+
+### Exercícios I (Biblioteca)
+
 ## E1
 Apresente a query para listar todos os livros publicados após 2014. Ordenar pela coluna cod, em ordem crescente, as linhas.  Atenção às colunas esperadas no resultado final: cod, titulo, autor, editora, valor, publicacao, edicao, idioma
 
@@ -109,4 +113,5 @@ ORDER BY aut.nome
 ```
 
 ## Atalhos
-[Voltar para o README.md da raiz](/README.md)
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 2](/Sprint%202/README.md)

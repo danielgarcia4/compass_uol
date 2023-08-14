@@ -97,7 +97,7 @@ Redes são os conjuntos de dispositivos de computação interligados por um sist
 
 É possível fazer a compactação e descompactação de arquivos por linha de comando, utilizando o ***tar*** e o ***zip***.
 
-## Sprint 2
+## [Sprint 2](./Sprint%202/README.md)
 
 Nessa sprint aprendemos conceitos e prática de SQL, além de conceitos de Big Data.
 

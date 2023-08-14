@@ -1,3 +1,7 @@
+# Sprint 2
+
+### Conceitos de Data & Analytics I
+
 ## Big Data
 
 É um grande volume de dados que exigem formas inovadoras e econômicas de processamento de informações que melhoram a percepção, tomada de decisão e automação de processos. De acordo com as definições de Doug Laney, existem 5 Vs importantes, sendo eles:
@@ -137,4 +141,5 @@ Visando compensar esse intervalo a ***speed layer*** foi criada, essa camada, qu
 Utilizando as três camadas dessa arquitetura é possível processar uma quantidade imensa de dados e mantê-los em sua estrutura original na ***batch layer***, disponibilizar esses dados em visualizações pré-computadas (***serving layer***), compensar os intervalos da camada batch e continuar entregando as informações em tempo real (***speed layer***).
 
 ## Atalhos
-[Voltar para o README.md da raiz](/README.md)
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 2](/Sprint%202/README.md)

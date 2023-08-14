@@ -1,3 +1,7 @@
+# Sprint 2
+
+### SQL para análise de dados
+
 ## Comandos básicos de SQL
 
 * **Select:** Serve para selecionar colunas de tabelas.
@@ -650,4 +654,5 @@ alter table sales.customers
 drop column age
 ```
 ## Atalhos
-[Voltar para o README.md da raiz](/README.md)
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 2](/Sprint%202/README.md)

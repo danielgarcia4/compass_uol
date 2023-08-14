@@ -1,3 +1,7 @@
+# Sprint 2
+
+### Conceitos de Data & Analytics II
+
 ## Técnicas de Processamento de Dados
 
 O processamento em lote, ou do inglês ***Batch processing***, é o processamento que acontece em blocos de dados que já foram armazenados durante um período de tempo, ou seja, é o processamento de diversas transações que ocorreram num sistema de origem e serão processadas para outros sistemas em conjunto ou em bloco.
@@ -62,4 +66,5 @@ Serve para armazenamento de dados históricos. Um SCD é uma dimensão que armaz
 Uma API, do inglês ***Application Program Interface***, é um conjunto de rotinas, protocolos e ferramentas para criar aplicativos de software. Basicamente, uma API especifica como os componentes de software devem interagir.
 
 ## Atalhos
-[Voltar para o README.md da raiz](/README.md)
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 2](/Sprint%202/README.md)

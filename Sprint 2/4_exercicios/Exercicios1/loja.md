@@ -1,3 +1,7 @@
+# Sprint 2
+
+### Exercícios II (Loja)
+
 ## E8
 Apresente a query para listar o código e o nome do vendedor com maior número de vendas (contagem), e que estas vendas estejam com o status concluída.  As colunas presentes no resultado devem ser, portanto, cdvdd e nmvdd.
 
@@ -152,4 +156,5 @@ GROUP BY estado, nmpro
 ORDER BY estado, nmpro
 ```
 ## Atalhos
-[Voltar para o README.md da raiz](/README.md)
+[Voltar para o README.md da raiz](/README.md)\
+[Voltar para o README.md da Sprint 2](/Sprint%202/README.md)
