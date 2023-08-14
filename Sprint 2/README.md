@@ -25,7 +25,7 @@ Foram apresentados conceitos e ferramentas relacionadas a Banco de Dados, Ciênc
 
 Acesse o Ebook com o conteúdo do curso e o certificado nos links abaixo
 
-1. [Ebook - BDF (pdf)](./Sprint%202/3_bigdatafundamentos/Ebook-BDFV3.pdf)
+1. [Ebook - BDF (pdf)](/Sprint%202/3_bigdatafundamentos/Ebook-BDFV3.pdf)
 
 2. [Certificado](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
 
