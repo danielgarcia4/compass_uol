@@ -117,6 +117,10 @@ Para ter acesso ao resumo do curso, clique no link abaixo.
 
 ### Big Data Fundamentos
 
+Acesse o Ebook com o conteúdo do curso no link abaixo
+
+[Ebook - BDF](./Sprint%202/3_bigdatafundamentos/Ebook-BDFV3.pdf)
+
 Acesse o certificado no link abaixo.
 
 [Big Data Fundamentos 3.0](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
