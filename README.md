@@ -7,7 +7,7 @@ Sempre estive muito próximo da tecnologia, e isso me dispertou o interesse de e
 Gosto muito de aprender coisas novas. Estou muito animado e grato com essa oportunidade de estágio. Espero aprender bastante, compartilhar experiências e integrar esse time.
 
 # Resumo das Sprints
-## [Sprint 1](/Sprint%201/README.md)
+# [Sprint 1](/Sprint%201/README.md)
 
 Nessa sprint tivemos dois cursos: **Git e GitHub do básico ao avançado** e **Linux para desenvolvedores**.
 
@@ -97,7 +97,7 @@ Redes são os conjuntos de dispositivos de computação interligados por um sist
 
 É possível fazer a compactação e descompactação de arquivos por linha de comando, utilizando o ***tar*** e o ***zip***.
 
-## [Sprint 2](./Sprint%202/README.md)
+# [Sprint 2](./Sprint%202/README.md)
 
 Nessa sprint aprendemos conceitos e prática de SQL, além de conceitos de Big Data.
 
@@ -155,5 +155,22 @@ Para acessar os exercícios, clique nos links abaixo.
 2. [Big Data Fundamentos 3.0](/Sprint%202/certificados/certificate-big-data-fundamentos.jpg)
 3. [Data & Analytics - PB - AWS 2/10](/Sprint%202/certificados/sprint2.jpg)
 
+# [Sprint 3](/Sprint%203/README.md)
 
+Nessa sprint aprendemos python no curso **Python 3 - Curso Completo do Básico ao Avançado**. Foram abordados tópicos envolvendo: algoritmos, estruturas de dados, fundamentos, orientação a objeto, programação funcional e muito mais.
+
+### Exercícios
+
+1. [Exercícios de Python - 1 ao 25](/Sprint%203/exercicios)
+2. [Desafio - ETL com Python](/Sprint%203/desafio/)
+
+### Material de Estudo
+* [Apostila do Curso](/Sprint%203/material/curso-python-versao-1.1.pdf)
+* [Material de Estudo - Mód 1](/Sprint%203/material/DA++-+Linguagem+Python++-+Módulo+I.pdf)
+* [Material de Estudo - Mód 2](/Sprint%203/material/DA++-+Linguagem+Python++-+Módulo+II.pdf)
+
+### Certificados
+
+* [Python 3 - Curso Completo do Básico ao Avançado](/Sprint%203/certificados/python3.png)
+* [Data & Analytics - PB - AWS 3/10](/Sprint%203/certificados/sprint3.jpg)
 
