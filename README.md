@@ -190,6 +190,6 @@ Exercícios:
 * [Exercícios de Docker](/Sprint%204/exercicios/container_com_docker/) 
 
 
-# [Sprint 5](/README.md)
+# [Sprint 5](/Sprint%205/README.md)
 
 Nessa sprint tivemos contato com os fundamentos de Computação em Nuvem utilizando a Amazon Web Services como nosso ambiente de trabalho. A sprint focou mais na fundamentação teórica e em conteúdos voltado às acreditações AWS e preparação para Certificação Cloud Practitioner (introdutória).
