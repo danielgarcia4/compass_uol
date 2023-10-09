@@ -193,3 +193,8 @@ Exercícios:
 # [Sprint 5](/Sprint%205/README.md)
 
 Nessa sprint tivemos contato com os fundamentos de Computação em Nuvem utilizando a Amazon Web Services como nosso ambiente de trabalho. A sprint focou mais na fundamentação teórica e em conteúdos voltado às acreditações AWS e preparação para Certificação Cloud Practitioner (introdutória).
+
+
+# [Sprint 6](/Sprint%206/)
+
+Para acessar a pasta da Sprint 6, clique no link acima.
