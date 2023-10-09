@@ -197,4 +197,6 @@ Nessa sprint tivemos contato com os fundamentos de Computação em Nuvem utiliza
 
 # [Sprint 6](/Sprint%206/)
 
-Para acessar a pasta da Sprint 6, clique no link acima.
+Nessa sprint tivemos cursos sobre os serviços que a AWS oferece para Data & Analytics. É parte de nossas atribuições, enquanto especialista de dados, conhecê-los para orientar a construção das melhores soluções de dados na nuvem. Também realizamos laboratórios praticando o que aprendemos.
+
+Para acesso a mais detalhes, [clique aqui](./Sprint%206/README.md).

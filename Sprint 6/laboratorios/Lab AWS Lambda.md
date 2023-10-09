@@ -1,4 +1,4 @@
-# Lab AWS Athena
+# Lab AWS Lambda
 
 ### Etapa 1: Criar a função do Lambda
 
