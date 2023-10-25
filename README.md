@@ -200,3 +200,9 @@ Nessa sprint tivemos contato com os fundamentos de Computação em Nuvem utiliza
 Nessa sprint tivemos cursos sobre os serviços que a AWS oferece para Data & Analytics. É parte de nossas atribuições, enquanto especialista de dados, conhecê-los para orientar a construção das melhores soluções de dados na nuvem. Também realizamos laboratórios praticando o que aprendemos.
 
 Para acesso a mais detalhes, [clique aqui](./Sprint%206/README.md).
+
+# [Sprint 7](./Sprint%207/README.md)
+
+Nessa sprint aprofundamos nosso conhecimento sobre aquele que é, provavelmente, o framework de processamento de dados mais utilizado no mercado atualmente: Apache Spark. Tivemos uma introdução ao seu funcionamento, com laboratórios práticos, e iniciamos a primeira etapa do projeto final.
+
+Para acesso a mais detalhes, [clique aqui](./Sprint%207/README.md)
