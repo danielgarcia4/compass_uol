@@ -206,3 +206,9 @@ Para acesso a mais detalhes, [clique aqui](./Sprint%206/README.md).
 Nessa sprint aprofundamos nosso conhecimento sobre aquele que é, provavelmente, o framework de processamento de dados mais utilizado no mercado atualmente: Apache Spark. Tivemos uma introdução ao seu funcionamento, com laboratórios práticos, e iniciamos a primeira etapa do projeto final.
 
 Para acesso a mais detalhes, [clique aqui](./Sprint%207/README.md)
+
+# [Sprint 8](./Sprint%208/README.md)
+
+Nessa sprint continuamos nossa jornada de conhecimento no framework Apache Spark, agregando novos temas de estudo. Neste momento, aprendemos como utilizá-lo com alguns serviços da AWS para realizar o processamento de dados na nuvem. Também desenvolvemos a segunda etapa do projeto final.
+
+Para acesso a mais detalhes, [clique aqui](./Sprint%208/README.md)
