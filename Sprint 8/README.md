@@ -12,7 +12,7 @@ Clique nos links para acessar as resoluções das atividades.
 
 * [Tarefa 3: Exercícios - Geração de massa de dados](./Tarefa%203/README.md)
 
-* [Desafio Parte 1 - ETL](./desafio1/README.md)
+* [Tarefa 4: Exercícios - Apache Spark](./Tarefa%204/README.md)
 
 ## Certificados
 
