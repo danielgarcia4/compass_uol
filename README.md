@@ -212,3 +212,9 @@ Para acesso a mais detalhes, [clique aqui](./Sprint%207/README.md)
 Nessa sprint continuamos nossa jornada de conhecimento no framework Apache Spark, agregando novos temas de estudo. Neste momento, aprendemos como utilizá-lo com alguns serviços da AWS para realizar o processamento de dados na nuvem. Também desenvolvemos a segunda etapa do projeto final.
 
 Para acesso a mais detalhes, [clique aqui](./Sprint%208/README.md)
+
+# [Sprint 9](./Sprint%209/README.md)
+
+Quando processamos dados, precisamos armazená-los em estruturas bem elaboradas, que favorecem as consultas. Ou seja, devemos estar atentos a melhor forma de armazenamento pensando nos requisitos daqueles que farão uso dos dados, tanto na perspectiva do tempo quanto do volume. Nessa sprint, aprendemos sobre Modelagem Relacional, Modelagem Dimensional, e dando continuidade ao desafio fizemos o Processamento Trusted e Refined dos dados.
+
+Para acesso a mais detalhes, [clique aqui](./Sprint%209/README.md)
