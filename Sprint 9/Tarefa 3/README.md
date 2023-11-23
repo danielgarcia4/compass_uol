@@ -1,6 +1,23 @@
 # Sprint 9
 
-## Tarefa: Desafio Parte 3 - Processamento da Trusted
+## Tarefa 3: Desafio Parte 3 - Processamento da Trusted
+
+### Atualização dados TMDB
+
+Percebi que precisava puxar mais alguns dados da API para conseguir fazer a junção dos dados da API com os do TMDB, pois não haviam dados em comum.
+Por isso, fiz uma nova requisição, incluindo os dados 'genre_ids' e 'title', conforme as imagens abaixo evidenciam.
+
+* Alteração no código do Lambda
+![código lambda](./img/26.png)
+
+* Função executada
+![função executada](./img/27.png)
+
+* Arquivos criados
+![arquivos criados](./img/28.png)
+
+* Estrutura dos arquivos
+![estrutura dos arquivos](./img/29.png)
 
 ### Job para processamento dos arquivos CSV
 
@@ -84,10 +101,10 @@ from awsglue.utils import getResolvedOptions
 from pyspark.context import SparkContext
 from awsglue.context import GlueContext
 from awsglue.job import Job
-from pyspark.sql.types import StructType, StructField, IntegerType, BooleanType, StringType, DoubleType, DateType
-from pyspark.sql.functions import lit
 
-## @params: [JOB_NAME]
+from awsglue.context import DynamicFrame
+
+# @params: [JOB_NAME, S3_INPUT_PATH, S3_TARGET_PATH]
 args = getResolvedOptions(sys.argv, ['JOB_NAME'])
 
 sc = SparkContext()
@@ -96,23 +113,11 @@ spark = glueContext.spark_session
 job = Job(glueContext)
 job.init(args['JOB_NAME'], args)
 
-json_schema = StructType([
-    StructField("Id", IntegerType(), True),
-    StructField("Adulto", BooleanType(), True),
-    StructField("Idioma original", StringType(), True),
-    StructField("Popularidade", DoubleType(), True),
-    StructField("Data de lançamento", DateType(), True)
-])
+tmdb_s3_path = "s3://desafio-1-compass/Raw/TMDB/JSON/2023/11/21/"
 
-tmdb_s3_path = "s3://desafio-1-compass/Raw/TMDB/JSON/2023/11/04/"
+spark_df = spark.read.json(tmdb_s3_path)
 
-dt = '2023-11-04'
-
-tmdb_data = spark.read.json(tmdb_s3_path, schema=json_schema)
-
-tmdb_data = tmdb_data.withColumn("dt", lit(dt))
-
-tmdb_data.write.mode("overwrite").partitionBy("dt").parquet("s3://desafio-3-compass/Trusted/TMDB/Parquet")
+spark_df.write.format('parquet').mode("overwrite").save("s3://desafio-3-compass/Trusted/TMDB/Parquet")
 
 job.commit()
 
@@ -182,6 +187,4 @@ CloudWatchFullAccess), permitindo o acesso do Glue ao S3.
 
 ![tabela e query](img/24.png)
 
-![tabela e query](img/25.png)
-
-
+![resultado query](img/25.png)
