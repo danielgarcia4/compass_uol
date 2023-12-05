@@ -12,7 +12,7 @@ Gosto muito de aprender coisas novas. Estou muito animado e grato com essa oport
 
 Ser ágil é parte da nossa cultura. Mas afinal, o que significa ser ágil e de que forma frameworks como o SCRUM nos auxiliam no dia-a-dia? E ainda, embora sendo ágeis, jamais deixamos de lado a segurança, pois tratando-se de dados, os cuidados devem ser redobrados. 
 
-Acesse os certificados dos cursos complementares [clicando aqui.](/0%20-%20Cultura%20Ágil%20e%20Segurança/README.md)
+Acesse os certificados dos cursos complementares [clicando aqui.](/1%20-%20Cultura%20Ágil%20e%20Segurança/README.md)
 
 
 # Resumo das Sprints
