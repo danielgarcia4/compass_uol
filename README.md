@@ -2,6 +2,8 @@
 
 Olá, meu nome é Daniel Garcia Amaral. Sou de Campo Grande - Mato Grosso do Sul, e estou cursando o 2º semestre de Engenharia de Computação na UFMS.
 
+![minha foto](./0%20-%20img/profile-daniel.png)
+
 Sempre estive muito próximo da tecnologia, e isso me dispertou o interesse de explorar mais essa área. Com isso, cursei no ensino médio o Curso Técnico Integrado em Informática no IFMS. Lá aprendi muitas coisas relacionadas a computdores e programação. Alguns dos conhecimentos que obtive no curso foram: Linguagens de programação (C, Java, Python), Banco de dados (PostgreSQL), Desenvolvimento Web, Programação para mobile, Manutenção de Computadores, Redes, Engenharia de Softwares e muitas outras coisas muito valiosas. Ao finalizar o ensino médio decidi continuar na área, e entre os diversos cursos de computação escolhi a Engenharia de Computação.
 
 Gosto muito de aprender coisas novas. Estou muito animado e grato com essa oportunidade de estágio. Espero aprender bastante, compartilhar experiências e integrar esse time.
@@ -226,7 +228,7 @@ Quando processamos dados, precisamos armazená-los em estruturas bem elaboradas,
 
 Para acesso a mais detalhes, [clique aqui](./Sprint%209/README.md)
 
-# Sprint 10
+# [Sprint 10](./Sprint%2010/README.md)
 
 Organizar os dados de modo a potencializar seu consumo a todos os interessados corresponde a construção das fundações de um Data Lake. Todavia, o valor dos dados somente é evidenciado quanto torna-se informação e conhecimento a disposição da tomada de decisão. É neste ponto que a análise e a visualização de dados tornam-se disciplinas essenciais ao sucesso do projeto.
 
