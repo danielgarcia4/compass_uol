@@ -225,3 +225,11 @@ Para acesso a mais detalhes, [clique aqui](./Sprint%208/README.md)
 Quando processamos dados, precisamos armazená-los em estruturas bem elaboradas, que favorecem as consultas. Ou seja, devemos estar atentos a melhor forma de armazenamento pensando nos requisitos daqueles que farão uso dos dados, tanto na perspectiva do tempo quanto do volume. Nessa sprint, aprendemos sobre Modelagem Relacional, Modelagem Dimensional, e dando continuidade ao desafio fizemos o Processamento Trusted e Refined dos dados.
 
 Para acesso a mais detalhes, [clique aqui](./Sprint%209/README.md)
+
+# Sprint 10
+
+Organizar os dados de modo a potencializar seu consumo a todos os interessados corresponde a construção das fundações de um Data Lake. Todavia, o valor dos dados somente é evidenciado quanto torna-se informação e conhecimento a disposição da tomada de decisão. É neste ponto que a análise e a visualização de dados tornam-se disciplinas essenciais ao sucesso do projeto.
+
+Nessa sprint fizemos um dashboard no QuickSight, utilizando os dados que viemos transformando ao longo das sprints, para gerar insights.
+
+Para acesso a mais detalhes, [clique aqui](./Sprint%2010/README.md)
