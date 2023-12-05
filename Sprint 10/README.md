@@ -16,6 +16,11 @@ O dashboard montado ficou assim:
 
 ![dashboard](./Dashboard%20-%20Daniel%20Garcia%20Amaral.png)
 
+A partir da análise desse dashboard e a extração de insights:
+
+* Não existe uma influência direta do tempo de duração na popularidade do filme;
+* Para análises futuras: fazer o paralelo de outros fatores com a popularidade para identificar alguma influência.
+
 ## Apresentação do Desafio Final
 
 Fiz a entrega do vídeo de apresentação do desafio final no Stream, compartilhando com o usuário studio.dataanalystics.scholarshipprogram, como solicitado.
